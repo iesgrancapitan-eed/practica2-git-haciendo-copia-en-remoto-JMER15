@@ -45,6 +45,20 @@ Para añadirlos haremos un git add y el nombre de los ficheros o carpetas.
    
 5. Sincroniza tus cambios con el repositorio remoto (git push)
 
-Hacemos un git commit con el nombre del mensaje "subida en remoto"
+Hacemos un git commit con el nombre del mensaje "subida en remoto".
+
+Para que este commit local sea visible deberemos de hacer un push al remoto.
 
 ![imagen9](img/img9.png)
+
+Comprobamos que el working tree está limpio.
+
+Y hacemos un git push -u origin master.
+
+![imagen10](img/img10.png)
+
+Finalmente podemos ver el log con el commit o verlo desde el navegador web que está sincronizado nuestro repositorio local con el remoto.
+
+![imagen11](img/img11.png)
+
+![imagen12](img/img12.png)
