@@ -44,3 +44,7 @@ Para añadirlos haremos un git add y el nombre de los ficheros o carpetas.
 ![imagen8](img/img8.png)
    
 5. Sincroniza tus cambios con el repositorio remoto (git push)
+
+Hacemos un git commit con el nombre del mensaje "subida en remoto"
+
+![imagen9](img/img9.png)
